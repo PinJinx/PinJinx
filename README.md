@@ -53,7 +53,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 ## 📈 Activity Graph
 
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PinJinx&theme=react-dark&hide_border=true)](https://github.com/yourusername)
+[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PinJinx&theme=react-dark&hide_border=true)](https://github.com/PinJinx)
 
 ---
 
@@ -61,7 +61,7 @@ I'm a passionate developer who loves building innovative solutions and learning 
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=PinJinx&color=brightgreen&style=flat-square)
 
 </div>
 
