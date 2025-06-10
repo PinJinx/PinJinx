@@ -22,3 +22,8 @@ I'm constantly diving into new technologies, whether it's **refining AI models, 
 
 Let's build something awesome! 🚀
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinJinx/PinJinx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinJinx/PinJinx/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PinJinx/PinJinx/output/github-contribution-grid-snake.svg">
+</picture>     
