@@ -51,12 +51,6 @@ I'm a passionate developer who loves building innovative solutions and learning 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-## 📈 Activity Graph
-
-[![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PinJinx&theme=react-dark&hide_border=true)](https://github.com/PinJinx)
-
----
-
 <div align="center">
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
